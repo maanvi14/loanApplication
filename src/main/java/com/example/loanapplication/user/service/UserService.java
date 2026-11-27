@@ -1,13 +1,12 @@
-package com.example.loanapplication.service;
+package com.example.loanapplication.user.service;
 
-import com.example.loanapplication.dto.CreateUserRequest;
-import com.example.loanapplication.dto.UserResponse;
-import com.example.loanapplication.entity.User;
-import com.example.loanapplication.repository.UserRepository;
+import com.example.loanapplication.user.dto.CreateUserRequest;
+import com.example.loanapplication.user.dto.UserResponse;
+import com.example.loanapplication.user.entity.User;
+import com.example.loanapplication.user.repository.UserRepository;
 
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import java.util.Optional;
 /*
  * MILESTONE 1: USER MANAGEMENT
  * Step 4: Create User Service

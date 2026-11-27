@@ -1,4 +1,4 @@
-package com.example.loanapplication.dto;
+package com.example.loanapplication.user.dto;
 import java.time.LocalDateTime;
 /*
  * MILESTONE 1: USER MANAGEMENT

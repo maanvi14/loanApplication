@@ -1,4 +1,4 @@
-package com.example.loanapplication.dto;
+package com.example.loanapplication.user.dto;
 /*
  * MILESTONE 1: USER MANAGEMENT
  * Step 3: Create User Request DTO

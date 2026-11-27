@@ -1,4 +1,4 @@
-package com.example.loanapplication.entity;
+package com.example.loanapplication.user.entity;
 /*
  * MILESTONE 1: USER MANAGEMENT
  * Step 1: Create User Entity

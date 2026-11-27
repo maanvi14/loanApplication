@@ -1,8 +1,8 @@
-package com.example.loanapplication.controller;
+package com.example.loanapplication.user.controller;
 
-import com.example.loanapplication.dto.CreateUserRequest;
-import com.example.loanapplication.dto.UserResponse;
-import com.example.loanapplication.service.UserService;
+import com.example.loanapplication.user.dto.CreateUserRequest;
+import com.example.loanapplication.user.dto.UserResponse;
+import com.example.loanapplication.user.service.UserService;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

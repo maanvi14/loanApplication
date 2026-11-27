@@ -1,7 +1,7 @@
 
-package com.example.loanapplication.repository;
+package com.example.loanapplication.user.repository;
 
-import com.example.loanapplication.entity.User;
+import com.example.loanapplication.user.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /*
